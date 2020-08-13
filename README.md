@@ -3,7 +3,7 @@ It works for xyz graphs, just change the fitness function to fit it in the probl
 
 You may also change code's constants if you want to optimize the code or a more precise result.
 
-Education Purposes Only
+Educational Purposes Only
 
 Made By:
 
